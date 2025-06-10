@@ -18,5 +18,12 @@ permet de pousser les modifications en ligne
 - permet de lister les modifications a traiter
 - permet de verifier le status du repertoire
 
-## git log
+## git log 
 permet de lister les modifications en local
+
+## git branch
+permet de crere une branch
+
+## git checkout
+- permet de passer d'une branche a une autre
+- Avec l'option -b checkout va creer la branch ci elle n'existe pas
