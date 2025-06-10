@@ -27,3 +27,6 @@
 ## git checkout
 - permet de passer d'une branche a une autre
 - Avec l'option -b checkout va creer la branch ci elle n'existe pas
+
+## git pull
+- permet de recuperer mes modifications en ligne pour les mettre en local
